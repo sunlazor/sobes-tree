@@ -1,0 +1,9 @@
+{
+    "name": "sunlazor/sobes-tree",
+    "type": "project",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
